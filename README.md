@@ -1,16 +1,17 @@
 # Percolation
-This file can be ran by executing the jar.file PercolationProject.jar from the Command Prompt i.e. 
+This file can be ran by executing the jar.file PercolationProject.jar from the Command Prompt i.e.
+File Location: Percolation/out/artifacts/PercolationProject_jar/ 
 java -jar PercolationProject.jar 200 30
 
-Where 200 represents n for a nxn grid and 30 is how many trials are ran. 
+Where 200 represents n for a nxn grid and 30 is how many trials are ran.
 
-Problem Explanation: 
+Problem Explanation:
 
 http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
 
-Algs-4.jar Library Source Code -- 
+Algs-4.jar Library Source Code --
 
-WeightedQuickUnionUF: 
+WeightedQuickUnionUF:
 
 https://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/WeightedQuickUnionUF.java.html
 
